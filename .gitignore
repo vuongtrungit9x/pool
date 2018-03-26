@@ -1,8 +1,8 @@
 node_modules/
 .idea/
 config.json
-pool_configs/*.json
-!pool_configs/litecoin_example.json
-!pool_configs/vertcoin_example.json
+configs/*.json
+!configs/litecoin_example.json
+!configs/vertcoin_example.json
 logs/
 !.gitkeep

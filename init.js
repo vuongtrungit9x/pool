@@ -87,7 +87,7 @@ if (cluster.isWorker) {
 //Read all pool configs from pool_configs and join them with their coin profile
 var buildPoolConfigs = function () {
     var configs = {};
-    var configDir = 'pool_configs/';
+    var configDir = 'configs/';
 
     var poolConfigFiles = [];
 

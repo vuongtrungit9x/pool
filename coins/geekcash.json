@@ -1,0 +1,6 @@
+{
+    "name": "GeekCash",
+    "symbol": "GEEK",
+    "algorithm": "geek"
+    // "mposDiffMultiplier": 256
+}
