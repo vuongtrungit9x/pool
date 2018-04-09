@@ -34,9 +34,9 @@
 
 "website": {
 "enabled": true,
-"host": "0.0.0.0",
+"host": "167.99.3.215",
 "port": 8080,
-"stratumHost": "pool.geekcash.org",
+"stratumHost": "167.99.3.215:8080",
 "stats": {
 "updateInterval": 60,
 "historicalRetention": 43200,
