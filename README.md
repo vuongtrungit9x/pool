@@ -16,7 +16,7 @@ Current version: v1.0.10
 -------
 ### Install
 ```
-git clone https://github.com/nasa8x/node-open-mining-portal.git pool
+git clone https://github.com/vuongtrungit9x/pool.git pool
 cd pool
 npm install
 node init.js
